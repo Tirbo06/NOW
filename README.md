@@ -1,3 +1,3 @@
 # NOW
 
-### To use with http://www.mybinder.org
+### To use with https://mybinder.org
